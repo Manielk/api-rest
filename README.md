@@ -10,7 +10,7 @@ Crear carpeta vendor mkdir vendor
 
 Dar permisos recursivos a vendor sudo chmod -cR vendor
 
-Ejecutar composer composer install
+Ejecutar composer: - composer install o composer update
 
 Proporcionar token de autenticacion de Git Hub
 
