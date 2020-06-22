@@ -18,5 +18,8 @@ Dar permisos a carpetas sudo chmod -cR 777 storage/framework/ sudo chmod -cR 777
 
 Correr migraciones necesarias para el funcionamiento del sistema php artisan migrate.
 
+![img](https://user-images.githubusercontent.com/50437305/85240006-172a4c80-b3fc-11ea-9256-88870f598b7f.png)
+
+
 
 
